@@ -1,2 +1,2 @@
-# installation_guide
-Chapter pre-task Installation guide - Install software before reading the chapter
+# installation_guides
+Chapter pre-task Installation guides - Install software before reading each chapters
