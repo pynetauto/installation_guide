@@ -1,6 +1,6 @@
 # Introduction to Python Network Automation: The First Journey.
 
-# installation_guides for Chapter 02, 03 and 06
+# Installation_guides for Chapter 02, 03 and 06
 
 Please download and install software before reading each chapter.
 
